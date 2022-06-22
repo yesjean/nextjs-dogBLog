@@ -1,2 +1,1 @@
-# nextjs-dogBLog
-nextjs로 실습해보는 블로그
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
